@@ -9,13 +9,34 @@
     <description>Recent content on Hego&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2022 21:15:52 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 18:56:48 +0530</lastBuildDate>
     
 	<atom:link href="http://hego-damask.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Helloworld</title>
+      <title>Second Day</title>
+      <link>http://hego-damask.github.io/posts/second-day/</link>
+      <pubDate>Mon, 19 Dec 2022 18:56:48 +0530</pubDate>
+      
+      <guid>http://hego-damask.github.io/posts/second-day/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Adding a second blog # I&amp;rsquo;m adding a second one to this thing to see how it looks.
+the theme looks fine on all types of sceens, Desktop, mobile, etc.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
       <link>http://hego-damask.github.io/posts/helloworld/</link>
       <pubDate>Sun, 18 Dec 2022 21:15:52 +0530</pubDate>
       
@@ -28,7 +49,7 @@
         
         
         
-          Hello World! # This is my blog, my corner of the internet where I can share my stuff.
+          Hello there! # This is my blog, my corner of the internet where I can share my stuff.
           
         
         </description>
